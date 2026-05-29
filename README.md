@@ -4,7 +4,7 @@
 
 🎓 3rd-Year Biotechnology Student  
 💻 Aspiring Full-Stack Web Developer  
-🤖 Interested in AI, Bioinformatics, and Robotics  
+🤖 Interested in AI and Bioinformatics
 🧬 Passionate about combining Biotechnology with Technology  
 📚 Continuous learner who enjoys exploring both life sciences and software development
 
