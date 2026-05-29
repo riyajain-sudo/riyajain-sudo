@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Jain</h1>
+<h1 align="center">Hi, I'm Riya Jain</h1>
 <h3 align="center">Biotechnology undergraduate with an understanding of core biological concepts, currently developing skills in programming, web development, basic bioinformatic and AI.</h3>
 
 - 📫 How to reach me **riya.jain.connect1@gmail.com**
